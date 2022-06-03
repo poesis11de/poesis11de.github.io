@@ -7,29 +7,51 @@ body {
     padding: 0px;
     margin: 0px;
     background-color: black;
+    font-family: sans-serif;
+    color: white;
 }
 
 #bannerdiv {
     border: solid black;
-    height: 800px;
+    height: 300px;
 }
 
-#bannerh2 {
+#bannerh3 {
     padding-top: 100px;
-    color: white;
-    font-family: sans-serif;
     margin-bottom: 0px;
 }
 
 h1 {
-    color: white;
-    font-family: sans-serif;
     margin-top: 0px;
     margin-bottom: 0px;
     font-size: 50px;
 }
 
 h2 {
-    color: white;
-    font-family: sans-serif;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+#portfolioh2 {
+    text-align: center;
+}
+
+.portfolioh3 {
+    color: lightgrey;
+    text-align: center;
+}
+
+.portfoliotext {
+    color: lightgrey;
+    text-align: center;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#contacth2 {
+    text-align: center;
 }
